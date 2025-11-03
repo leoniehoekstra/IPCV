@@ -1,8 +1,8 @@
 This project applies real-time AR filters to faces captured from a webcam. Filters include:
 
-Face Warp – A bulge/distortion effect applied to the face.
-Face Augmentation – Glasses over the face with rotation tracking.
-Motion Tracking & Interaction – Glasses react to face turning and sparkle effect is applied when eyebrows are lifted
+Face Warp – A bulge effect applied to the face.
+Face Augmentation – Glasses over the face.
+Motion Tracking & Interaction – Glasses react to face movement and sparkle effect is applied when eyebrows are lifted
 The project uses Dlib for facial landmark detection and OpenCV for image processing and display.
 
 Requirements:
@@ -19,6 +19,6 @@ Extract .bz2 file to shape_predictor_68_face_landmarks.dat and place it in the p
 Controls:
 
 1 – Face Warp
-2 – Face Augmentation (glasses with smoothing)
+2 – Face Augmentation (glasses)
 3 – Motion Tracking & Interaction (glasses + sparkles)
 ESC – Exit
