@@ -20,5 +20,5 @@ Controls:
 
 1 – Face Warp
 2 – Face Augmentation (glasses)
-3 – Motion Tracking & Interaction (glasses + sparkles)
+3 – Motion Tracking & Interaction
 ESC – Exit
